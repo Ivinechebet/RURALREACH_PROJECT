@@ -92,7 +92,7 @@ Example `.env` values:
 ```dotenv
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=#IVINEchebet3305
+DB_PASSWORD=
 DB_NAME=ruralreach
 DB_PORT=3307
 AT_USERNAME=sandbox
